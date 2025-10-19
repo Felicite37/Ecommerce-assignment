@@ -2,6 +2,12 @@
 
 A modern, responsive e-commerce grocery store built with React and Vite, featuring a clean UI with Tailwind CSS.
 
+## 📸 Screenshot
+
+![JoyDelight Grocery Store](./screenshot.png)
+
+_Screenshot showing the modern, green-themed interface with hero banner, featured products, and clean navigation_
+
 ## 🛒 Features
 
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
