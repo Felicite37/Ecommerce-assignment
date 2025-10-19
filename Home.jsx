@@ -1,4 +1,3 @@
-
 // ...existing code...
 import { Link } from "react-router-dom";
 import ProductCard from "./Productcard";
@@ -20,7 +19,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="text-center my-6" aria-labelledby="home-hero">
         <h1 id="home-hero" className="text-4xl font-bold mb-4">
-          Welcome to Joyful Bites Store!
+          Welcome to JoyDelight Store!
         </h1>
         <p className="mb-4">Fresh groceries delivered to your doorstep.</p>
         <Link
